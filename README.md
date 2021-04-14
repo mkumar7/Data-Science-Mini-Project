@@ -1,5 +1,3 @@
-# Springboard-Machine-Learning-Project
-
 **Contains Mini Projects for the Springboard Bootcamp**
 
 [JSON examples and exercise](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/a8cb32532d66391dfedabcbcff83200321757003/sliderule_dsi_json_exercise.ipynb)
